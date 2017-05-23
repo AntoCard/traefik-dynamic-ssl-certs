@@ -95,3 +95,6 @@ Add sni automation to the traefik.
 [traefik]: https://github.com/containous/traefik
 [rancher-traefik]: https://hub.docker.com/r/rawmind/rancher-traefik/
 [rancher-example]: https://github.com/rawmind0/alpine-traefik/tree/master/rancher
+=======
+# traefik-dynamic-ssl-certs
+Automatically get SSL certs from S3 and rebuild Traefik conf
